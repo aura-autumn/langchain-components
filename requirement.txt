@@ -1,4 +1,5 @@
 ipykernel
+pydantic
 
 # Environment Variable Management
 python-dotenv
